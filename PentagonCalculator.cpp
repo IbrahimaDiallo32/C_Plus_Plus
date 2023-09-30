@@ -1,10 +1,3 @@
-/*Class: Assignment2B
-Section: c++
-Term: S2
-Instructor: Kavitha Muppa
-Name: Ibrahima Diallo
-Lab#: E01 */
-
 #include <iostream>
 #include <string>
 #include <cmath>
