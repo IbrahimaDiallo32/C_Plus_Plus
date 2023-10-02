@@ -1,10 +1,3 @@
-/*Class: Lab2A
-Section: c++
-Term: S2
-Instructor: Kavitha Muppam
-Name: Ibrahima Diallo
-Lab#: E01 */
-
 #include <iostream>
 #include <string>
 using namespace std;
